@@ -1,3 +1,4 @@
+```java
 import java.util.Scanner;
 
 public class SumOfDigits {
@@ -21,3 +22,4 @@ public class SumOfDigits {
         return sum;
     }
 }
+```
