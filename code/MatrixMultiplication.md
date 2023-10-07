@@ -1,3 +1,4 @@
+```java
 import java.util.Scanner;
 
 public class MatrixMultiplication {
@@ -56,3 +57,4 @@ public class MatrixMultiplication {
         }
     }
 }
+```

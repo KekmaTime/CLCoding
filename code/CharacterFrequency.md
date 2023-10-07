@@ -1,3 +1,4 @@
+```java
 import java.util.Scanner;
 
 public class CharacterFrequency {
@@ -23,3 +24,4 @@ public class CharacterFrequency {
         return f;
     }
 }
+``````

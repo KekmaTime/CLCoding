@@ -1,3 +1,4 @@
+```java
 import java.util.Scanner;
 
 public class PrimeNumberChecker {
@@ -27,3 +28,4 @@ public class PrimeNumberChecker {
         return -1;
     }
 }
+```

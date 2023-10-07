@@ -1,3 +1,4 @@
+```java
 import java.util.Scanner;
 
 public class PalindromeChecker {
@@ -30,3 +31,4 @@ public class PalindromeChecker {
         return 1;
     }
 }
+```

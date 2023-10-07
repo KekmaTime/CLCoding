@@ -1,3 +1,4 @@
+```java
 import java.util.Scanner;
 class Employee {
     String name;
@@ -81,3 +82,4 @@ public class EmployeeDemo {
         manager.displayInformation();
     }
 }
+```

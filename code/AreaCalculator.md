@@ -1,3 +1,4 @@
+```java
 import java.util.Scanner;
 
 public class AreaCalculator {
@@ -54,3 +55,4 @@ public class AreaCalculator {
         return 0.5 * base * height;
     }
 }
+``````
