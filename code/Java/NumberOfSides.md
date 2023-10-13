@@ -36,3 +36,17 @@ public class Main {
     }
 }
 ```
+
+## Sample Algorithm
+
+1. Start Program
+2. Create a Rectangle object
+3. Call the `numberOfSides` method for the Rectangle object
+   - Display "A rectangle has 4 sides."
+4. Create a Triangle object
+5. Call the `numberOfSides` method for the Triangle object
+   - Display "A triangle has 3 sides."
+6. Create a Hexagon object
+7. Call the `numberOfSides` method for the Hexagon object
+   - Display "A hexagon has 6 sides."
+8. End Program

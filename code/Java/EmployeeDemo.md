@@ -83,3 +83,15 @@ public class EmployeeDemo {
     }
 }
 ```
+
+## Sample Algorithm
+
+1. Start Program
+2. Create an Officer object and input details
+   - Name, Age, Phone Number, Address, Salary, Specialization
+3. Create a Manager object and input details
+   - Name, Age, Phone Number, Address, Salary, Department
+4. Display Employee Details
+   - Officer's Information (including Salary)
+   - Manager's Information (including Salary)
+5. End Program

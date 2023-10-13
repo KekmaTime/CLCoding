@@ -29,3 +29,19 @@ public class PrimeNumberChecker {
     }
 }
 ```
+## Sample Algorithm
+
+1. Start Program
+2. Prompt the user to enter a number
+3. Read the input number
+4. Call the function `isPrimeNumber` with the input number as an argument
+5. Initialize a variable `i` to 2
+6. Check if `i` is less than or equal to half of the input number
+   1. If true, check if the input number is divisible by `i`
+      1. If true, the number is not prime
+      2. If false, continue checking with the next value of `i`
+   2. If false, the number is prime
+7. Check the result of the prime number check
+   1. If the result is not equal to the input number, display "Number is a prime number"
+   2. If the result is equal to the input number, display "Number is not a prime number"
+8. End Program

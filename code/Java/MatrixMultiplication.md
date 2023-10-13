@@ -58,3 +58,31 @@ public class MatrixMultiplication {
     }
 }
 ```
+## Sample Algorithm
+
+1. Start Program
+2. Prompt the user to enter the number of rows for matrix 1
+3. Read the input for the number of rows for matrix 1
+4. Prompt the user to enter the number of columns for matrix 1
+5. Read the input for the number of columns for matrix 1
+6. Prompt the user to enter the number of rows for matrix 2
+7. Read the input for the number of rows for matrix 2
+8. Prompt the user to enter the number of columns for matrix 2
+9. Read the input for the number of columns for matrix 2
+10. Check if matrix multiplication is possible
+    1. If cols1 is not equal to rows2
+        - Display "Matrix multiplication is not possible"
+        - End Program
+11. Initialize m1, m2, and result matrices based on input dimensions
+12. Prompt the user to enter elements for matrix 1
+13. Read the input elements for matrix 1
+14. Prompt the user to enter elements for matrix 2
+15. Read the input elements for matrix 2
+16. Perform matrix multiplication
+    1. For each row i in m1
+        - For each column j in m2
+            1. Initialize result[i][j] to 0
+            2. For each element k in a row of m1 or a column of m2
+                - Multiply m1[i][k] with m2[k][j] and add to result[i][j]
+17. Display the resultant matrix after multiplication
+18. End Program
